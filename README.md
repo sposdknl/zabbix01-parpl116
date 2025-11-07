@@ -19,7 +19,7 @@ automaticky registroval na privátní - [Zabbix pfSense](https://enceladus.pfsen
 - Vytvořte instalační a konfigurační scripty tak, aby jste nainstalovali Zabbix agent2 verze 7.0 LTS do VM a nastavili konfiguraci agenta pro auto-registraci na Zabbix server enceladus.pfsense.cz. Akce na Enceladu má nastavenu takovou podmínku (Host metadata contains SPOS)
 - Výsledný Váš registrovaný host s unikátním jmenem vložte jako Screenshot do adresáře Images.
 - Svého registrovaného hosta vyexportuje v libovolném formátu YAML, XML nebo JSON jako soubor a vložte do Vašeho projektu.
-- Upravte README.md tak, aby obsohovalo informace o Vašich změnách v tomto zadání.
+- Readme.md upraven tak, aby ukazoval obrázek mého serveru.
 
 # Nápověda
 

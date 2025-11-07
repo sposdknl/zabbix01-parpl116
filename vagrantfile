@@ -21,9 +21,9 @@ Vagrant.configure("2") do |config|
     SHELL
 
     # Načtení a provedení scriptu install-zabbix-agent2.sh
-#    config.vm.provision "shell", path: "install-zabbix-agent2.sh"
+    config.vm.provision "shell", path: "install-zabbix-agent2.sh"
 
     # Načtení a provedení scriptu configure-zabbix-agent2.sh
-#    config.vm.provision "shell", path: "configure-zabbix-agent2.sh"
+    config.vm.provision "shell", path: "configure-zabbix-agent2.sh"
     
 end
